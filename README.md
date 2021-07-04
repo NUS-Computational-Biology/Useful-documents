@@ -1,9 +1,9 @@
 # Useful-documents
-A collection of useful documents 
+A collection of useful documents
 
 ## 🤝 Contributing
 
-Being a Crowd Source project, everyone can contribute provided that it respects the following points:
+Being a crowd-sourced project, everyone can contribute provided that it respects the following points:
 
 - Before contributing any document, the author must make sure all sources are acknowledged (your name
  for original works).
@@ -47,7 +47,7 @@ In order to start contributing:
 
     **After your pull request is successfully merged**, you can safely delete your branch.
 
-If this is not your first contribution, remember to synchronize the `main` branch in your forked by
+If this is your repeat contribution, remember to synchronize the `main` branch in your forked by
  following these steps:
 
 1. Change to your local `main` branch (in case you are not on it already):
